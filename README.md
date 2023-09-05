@@ -1,6 +1,6 @@
 # PCB Coils in KiCad
 <img src="https://github.com/indoorgeek/pcb-coils-in-kicad/assets/63697764/4243e7ba-d84a-451a-b756-9bff48d093fc" width=100% height=100%> <br/>
-previously, I had made a [Mechanical 7 Segment Display](https://www.youtube.com/watch?v=3phLYcJFsy8) that uses electromagnets to push the segments. The project was so well-received, it even got published in Hackspace Magazine! I received so many comments and suggestions that I had to make an improved version of it. So, thank you, everyone!
+Previously, I had made a [Mechanical 7 Segment Display](https://www.youtube.com/watch?v=3phLYcJFsy8) that uses electromagnets to push the segments. The project was so well-received, it even got published in Hackspace Magazine! I received so many comments and suggestions that I had to make an improved version of it. So, thank you, everyone!
 
 Originally I had planned to make at least 3 or 4 such digits to display some kind of useful information on it. The only thing that stopped me from doing it were the power-hungry electromagnets. Thanks to them, each digit draws about 9A! That’s a lot! Although providing that much current was not a problem but I knew it can be a lot better. But then I came across Carl’s [FlexAR](https://flexar.io/) project. It is basically an electromagnet on a flexible PCB. He has made some awesome projects using it. Do check out his work! Anyway, it got me thinking if I could use the same PCB coils to push/pull the segments. This means that I could make the display smaller and less power-hungry.
 
